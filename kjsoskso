@@ -1,0 +1,50 @@
+[33mcommit 82a75d403df96d59ec184a73238ce70c1973f46f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ashwini <ashwinishinde6614@gmail.com>
+Date:   Thu Apr 25 00:39:36 2024 +0530
+
+    second commit
+
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d01f779[m
+[1m--- /dev/null[m
+[1m+++ b/about.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+
+[33mcommit dc9399337f700d738c90b5faf8c043dc6b82c527[m
+Author: Ashwini <ashwinishinde6614@gmail.com>
+Date:   Thu Apr 25 00:37:53 2024 +0530
+
+    first commit
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..633edf5[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1>Welcome to homepage</h1>[m
+[32m+[m[32m    <p>This is welcome page</p>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
